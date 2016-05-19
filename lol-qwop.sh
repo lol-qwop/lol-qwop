@@ -1,2 +1,2 @@
 #!/bin/sh
-echo yay lmao | tr 'ymaol ' 'lwopq-'
+echo yay lmao | tr ymaol\  lwopq-
