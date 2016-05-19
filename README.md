@@ -34,4 +34,4 @@ pest :cake: :ant: :ant: :ant: :ant: :ant:
 
 >wtf
 >
-> -- eddyb on the #rust IRC channel
+> -- eddyb on the #rust-offtopic IRC channel
