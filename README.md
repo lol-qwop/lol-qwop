@@ -4,6 +4,22 @@ MIME :e-mail: ALL MIME :mailbox_with_mail:
 
 pest :cake: :ant: :ant: :ant: :ant: :ant:
 
+```
+
+
+                                           o
+                                         o |
+                                         |
+      .       .           ._._.    _                     .===.
+      |`      |`        ..'\ /`.. |H|        .--.      .:'   `:.
+     //\-...-/|\         |- o -|  |H|`.     /||||\     ||     ||
+ ._.'//////,'|||`._.    '`./|\.'` |\\||:. .'||||||`.   `:.   .:'
+ ||||||||||||[ ]||||      /_T_\   |:`:.--'||||||||||`--..`=:='...
+ 
+ The ride never ends
+
+```
+
 
 
 #### don't break [the chain](https://www.youtube.com/watch?v=lpVCL00fPAc)™™™™™™
