@@ -1,4 +1,3 @@
 module Main where
 
-main = do
-    print "lol-qwop"
+main = putStrLn "lol-qwop"
