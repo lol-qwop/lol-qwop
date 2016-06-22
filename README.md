@@ -51,3 +51,7 @@ pest :cake: :ant: :ant: :ant: :ant: :ant:
 >wtf
 >
 > -- eddyb on the #rust-offtopic IRC channel
+
+>holy shit
+>
+> -- joe_dirt on rizon/#code 
