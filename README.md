@@ -55,3 +55,7 @@ pest :cake: :ant: :ant: :ant: :ant: :ant:
 >holy shit
 >
 > -- joe_dirt on rizon/#code 
+
+>What's the point?
+>
+> -- kyubiko on rizon/#code
