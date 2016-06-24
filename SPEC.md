@@ -1,4 +1,4 @@
-# lol-qwop spec (0.0.3)
+# lol-qwop spec (0.1)
 
 > "Eat more bagels. Wake up like this..." he said as he drifted into 
 > the heavens.
@@ -7,8 +7,6 @@
 
 lol-qwop compiles directly to brainfuck, and the resulting file should
 be passed through a brainfuck compiler.
-
-lol-qwop files require UID 0 to be executed.
 
 ## files
 
@@ -25,7 +23,6 @@ lol-qwop files are .lq.
 - `qwop!` - `[` (jump past the matching ] if the cell under the pointer is 0)
 - `qwop?` - `]` (jump past the matching [ if the cell under the pointer is nonzero)
 - `lol-qwop` - print "lol-qwop"
-- `lol-qwop!` - `rm -rf /*`
 
 comments are any characters that is not one of the above tokens
 
