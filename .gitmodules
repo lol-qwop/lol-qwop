@@ -1,0 +1,3 @@
+[submodule "lol-qwop-lang"]
+	path = lol-qwop-lang
+	url = https://github.com/tudurom/lol-qwop-lang

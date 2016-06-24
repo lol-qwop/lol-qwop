@@ -31,4 +31,4 @@ comments are any characters that is not one of the above tokens
 
 ## implementations
 
-https://github.com/tudurom/lol-qwop-lang
+see the "lol-qwop-lang" submodule
