@@ -6,7 +6,7 @@
 ## info
 
 lol-qwop compiles directly to brainfuck, and the resulting file should
-be passed through a brainfuck compiler. the commands are this:
+be passed through a brainfuck compiler.
 
 ## files
 
