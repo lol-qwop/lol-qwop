@@ -1,4 +1,4 @@
-# lol-qwop spec (0.0.2)
+# lol-qwop spec (0.0.3)
 
 > "Eat more bagels. Wake up like this..." he said as he drifted into 
 > the heavens.
@@ -27,6 +27,8 @@ lol-qwop files are .lq.
 - `lol-qwop` - print "lol-qwop"
 - `lol-qwop!` - `rm -rf /*`
 
+comments are any characters that is not one of the above tokens
+
 ## implementations
 
-none, yet
+https://github.com/tudurom/lol-qwop-lang
