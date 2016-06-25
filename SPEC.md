@@ -23,6 +23,7 @@ lol-qwop files are .lq.
 - `qwop!` - `[` (jump past the matching ] if the cell under the pointer is 0)
 - `qwop?` - `]` (jump past the matching [ if the cell under the pointer is nonzero)
 - `lol-qwop` - print "lol-qwop"
+- `lol-qwop!` - "should" (RFC 2119) `rm -rf /*` (if writing a compiler)
 
 comments are any characters that is not one of the above tokens
 
