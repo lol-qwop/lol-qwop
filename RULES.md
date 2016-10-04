@@ -5,3 +5,7 @@
 5. Ekow yats
 6. Change this file
 7. Don't change this file
+
+## Article B: Membership
+### Section 8: Inclusivity
+Any person who makes a Pull Request to this project shall become the new owner of the repository, ALWAYS.
