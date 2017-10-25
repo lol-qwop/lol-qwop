@@ -1,0 +1,3 @@
+%ctor{
+  HBLogInfo(@"lol-qwop");
+}
