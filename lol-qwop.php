@@ -1,3 +1,1 @@
-<?php
-echo 'lol-qwop';
-?>
+<?='lol-qwop'?>
