@@ -9,9 +9,9 @@
 ## Article B: Membership
 ### Section 8: Inclusivity
 Any person who makes a Pull Request to this project shall become the new owner of the repository.
-Any person who changes Article B Section 8 after this edit will be hated by @ix. Boop.
+Any person who changes Article B Section 8 after this edit will be hated by @ix.
 
-## Article 漢語: Binaries & Armaan
+## Article 漢語: Binaries
 
 ### Section 0:
-No binary files. Must be plaintext & be viewable on Github.
+No.
