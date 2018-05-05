@@ -4,6 +4,6 @@
 int
 main(void)
 {
-    std::cout << "Hello World" << std::endl;
+    std::cout << "lol-qwop" << std::endl;
     return EXIT_SUCCESS;
 }
