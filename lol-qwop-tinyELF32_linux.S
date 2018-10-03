@@ -1,9 +1,9 @@
-; $ nasm -f bin -o lol-qwop_tinylinux32 lol-qwop-tinylinux32.S
-; $ du -b lol-qwop_tinylinux32
-; 83      lol-qwop_tinylinux32
+; $ nasm -f bin -o lol-qwop-tinyELF32_linux.lol-qwop-tinyELF32_linux.S
+; $ du -b lol-qwop-tinyELF32_linux
+; 83      lol-qwop-tinyELF32_linux
 
-; $ chmod +x lol-qwop_tinylinux32
-; $ ./lol-qwop_tinylinux32
+; $ chmod +x lol-qwop-tinyELF32_linux
+; $ ./lol-qwop-tinyELF32_linux
 
 %define EXIT_SUCCESS 0x00
 %define stdout       0x01
