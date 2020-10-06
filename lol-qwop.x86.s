@@ -5,14 +5,14 @@
  */
 .global _start
 _start:
-	movl	$9, %edx # len(lol-qwop\n) = 9
+	movb	$9, %dl # len(lol-qwop\n) = 9
 	movl	$msg, %ecx
-	movl	$1, %ebx
-	movl	$4, %eax
+	movb	$1, %bl
+	movb	$4, %al
 	int	$0x80
 
-	movl	$0, %ebx
-	movl	$1, %eax
+	xorb	%bl, %bl
+	movb    $1, %al
 	int	$0x80
 
 msg:	.ascii	"lol-qwop\n"
