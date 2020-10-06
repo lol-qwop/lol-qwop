@@ -29,4 +29,4 @@ comments are any characters that is not one of the above tokens
 
 ## implementations
 
-see "[lol-qwop-lang](https://github.com/lol-qwop/lol-qwop-lang/)  "
+see "[lol-qwop-lang](https://github.com/lol-qwop/lol-qwop-lang/)"
